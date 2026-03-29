@@ -1,0 +1,19 @@
+.boldonse-regular {
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+<style>
+a:link, a:visited {
+  color: AliceBlue;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+a:hover, a:active {
+  color: AliceBlue;
+  text-decoration: none;
+}
+</style>
